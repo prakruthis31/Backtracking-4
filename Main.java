@@ -1,4 +1,4 @@
-// "static void main" must be defined in a public class.
+
 public class Main {
     public static class BuildingPlacement {
         int min, H, W, n;
